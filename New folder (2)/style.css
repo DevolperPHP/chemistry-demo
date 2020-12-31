@@ -1,0 +1,47 @@
+svg{
+    margin-top: 3%;
+}
+
+body{
+    position: relative;
+}
+
+.object{
+    position: absolute;
+    top: 30%;
+    right: 20%;
+}
+
+.object span{
+    font-size: 20px;
+}
+
+.object input{
+    width: 40px;
+    border-radius: 20px;
+}
+
+.object .result{
+    width: 160px;
+}
+
+input{
+    height: 40px;
+    text-align: center;
+}
+
+button{
+    margin-top: 7%;
+    font-size: 30px;
+    background-color: #6C63FF;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    transition: all 1000ms ease 0ms;
+}
+
+button:hover{
+    font-size: 40px;
+    width: 220px;
+}
